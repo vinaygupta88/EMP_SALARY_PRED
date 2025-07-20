@@ -23,7 +23,7 @@ A powerful AI-based web app to predict employee salaries using Machine Learning,
 ## ⚙️ Run Locally
 
 ```bash
-git clone <pate here your github link >
+git clone https://github.com/vinaygupta88/EMP_SALARY_PRED.git
 cd employee-salary-app
 python -m venv venv
 venv\Scripts\activate
